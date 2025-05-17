@@ -1,9 +1,9 @@
 ## Hi there 👋
-<img src="https://github.com/kaniyamudhan/kaniyamudhan/assets/your-custom-image" alt="Kaniyamudhan" />
+
 
 <h1 align="center">Hi 👋, I'm Kaniyamudhan Y</h1>
 <h3 align="center">A passionate Python Developer & DevOps Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif" />
+<img align="right" alt="Coding" width="400" src="https://github.com/kaniyamudhan/kaniyamudhan/assets/your-custom-image" alt="Kaniyamudhan"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaniyamudhan&label=Profile%20views&color=0e75b6&style=flat" alt="kaniyamudhan" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python,Machine Learning, Docker, GitHub Actions**
 
-- 📫 How to reach me **kaniyamuhdanyogaraja@gmail.com**
+- 📫 How to reach me **kaniyamudhanyogaraja@gmail.com**
 
 - ⚡ Fun fact **I automate boring stuff and debug like a detective**
 
