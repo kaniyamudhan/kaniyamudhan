@@ -3,8 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kaniyamudhan Y</h1>
 <h3 align="center">A passionate Python Developer & DevOps Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/kaniyamudhan/kaniyamudhan/assets/your-custom-image" alt="Kaniyamudhan"/>
-
+<img align="right" alt="Coding" width="400" src="![klogo-removebg-preview](https://github.com/user-attachments/assets/393bca73-4b6b-42b0-8854-1725aa876edb)"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaniyamudhan&label=Profile%20views&color=0e75b6&style=flat" alt="kaniyamudhan" /> </p>
 
 - 🔭 I’m currently working on **Smart Traffic Signal System using YOLOv11**
