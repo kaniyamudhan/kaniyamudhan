@@ -35,7 +35,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaniyamudhan&show_icons=true&locale=en&layout=compact" alt="kaniyamudhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaniyamudhan&show_icons=true&locale=en" alt="kaniyamudhan" /></p>
 
